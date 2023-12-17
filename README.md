@@ -1,8 +1,24 @@
-# Riset-Informatika
-Mencari Topik Penelitian
+## Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
 
-## Alternatif topik penelitian yang Diminati
-### Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
+# JUDUL
+## Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
+
+### Metode Yang Digunakan
+Sensor RFID
+
+### Referensi Penelitian
+Pada penelitian ini diambil dari paper yang berjudul "Penerapan Teknologi Blockchain pada Sistem Supply Chain
+Management yang Terintegrasi dengan Sensor RFID (Paper Review)" Link : http://download.garuda.kemdikbud.go.id/article.php?article=2914363&val=5840&title=Penerapan%20Teknologi%20Blockchain%20pada%20Sistem%20Supply%20Chain%20Management%20yang%20Terintegrasi%20dengan%20Sensor%20RFID
+
+### Dataset
+Menggunakan dataset dari kaggle : https://www.kaggle.com/datasets/prashantk93/supply-chain-management-for-car
+
+### Codingan
+Link : https://www.kaggle.com/code/bakuygn/supply-chain-management-for-car
+
+### Hasil
+
+<img width="708" alt="Riset" src="https://github.com/Yogiesaragih/Riset-Informatika/assets/89885893/0f340692-e138-4eee-85fe-f02ac42233ee">
 
 ### Persoalan praktis yang  perlu diselesaikan
 1. Teknologi blockchain saat ini masih memiliki keterbatasan dalam hal kapasitas transaksi yang dapat diproses dalam jaringan
