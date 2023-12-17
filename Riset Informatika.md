@@ -15,11 +15,13 @@ Pada penelitian ini diambil dari paper yang berjudul "Penerapan Teknologi Blockc
 Management yang Terintegrasi dengan Sensor RFID (Paper Review)" Link : http://download.garuda.kemdikbud.go.id/article.php?article=2914363&val=5840&title=Penerapan%20Teknologi%20Blockchain%20pada%20Sistem%20Supply%20Chain%20Management%20yang%20Terintegrasi%20dengan%20Sensor%20RFID
 
 ### Dataset
-1. Teori Kriptografi: Kriptografi adalah studi tentang teknik-teknik untuk mengamankan komunikasi dan melindungi data dari akses yang tidak sah.
-2. Teori Keamanan Jaringan: Teori ini membahas tentang keamanan dalam jaringan komputer dan teknik-teknik untuk melindungi data dari serangan dan akses yang tidak sah.
-3. Teori Privasi Data: Teori ini mempelajari cara-cara untuk melindungi privasi data pengguna dan memastikan bahwa data pribadi tidak disalahgunakan.
+Menggunakan dataset dari kaggle : https://www.kaggle.com/datasets/prashantk93/supply-chain-management-for-car
 
-Pemahaman dan penerapan teori-teori ini akan membantu dalam merancang dan mengembangkan solusi yang efektif dalam penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data.
+### Codingan
+Link : https://www.kaggle.com/code/bakuygn/supply-chain-management-for-car
+
+### Hasil
+
 
 ### Persoalan praktis yang  perlu diselesaikan
 1. Teknologi blockchain saat ini masih memiliki keterbatasan dalam hal kapasitas transaksi yang dapat diproses dalam jaringan
