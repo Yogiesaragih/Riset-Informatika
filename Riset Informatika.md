@@ -12,7 +12,7 @@ Sensor RFID
 
 ### Referensi Penelitian
 Pada penelitian ini diambil dari paper yang berjudul "Penerapan Teknologi Blockchain pada Sistem Supply Chain
-Management yang Terintegrasi dengan Sensor RFID (Paper Review)" Link : 🔗](https://ejurnal.teknokrat.ac.id/index.php/JDMSI/article/view/1021)
+Management yang Terintegrasi dengan Sensor RFID (Paper Review)" Link : http://download.garuda.kemdikbud.go.id/article.php?article=2914363&val=5840&title=Penerapan%20Teknologi%20Blockchain%20pada%20Sistem%20Supply%20Chain%20Management%20yang%20Terintegrasi%20dengan%20Sensor%20RFID
 
 ### Dataset
 1. Teori Kriptografi: Kriptografi adalah studi tentang teknik-teknik untuk mengamankan komunikasi dan melindungi data dari akses yang tidak sah.
