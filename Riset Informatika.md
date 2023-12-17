@@ -4,6 +4,23 @@ Mencari Topik Penelitian
 ## Alternatif topik penelitian yang Diminati
 ### Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
 
+# JUDUL
+## Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
+
+### Metode Yang Digunakan
+Sensor RFID
+
+### Referensi Penelitian
+Pada penelitian ini diambil dari paper yang berjudul "Penerapan Teknologi Blockchain pada Sistem Supply Chain
+Management yang Terintegrasi dengan Sensor RFID (Paper Review)" Link : 🔗](https://ejurnal.teknokrat.ac.id/index.php/JDMSI/article/view/1021)
+
+### Dataset
+1. Teori Kriptografi: Kriptografi adalah studi tentang teknik-teknik untuk mengamankan komunikasi dan melindungi data dari akses yang tidak sah.
+2. Teori Keamanan Jaringan: Teori ini membahas tentang keamanan dalam jaringan komputer dan teknik-teknik untuk melindungi data dari serangan dan akses yang tidak sah.
+3. Teori Privasi Data: Teori ini mempelajari cara-cara untuk melindungi privasi data pengguna dan memastikan bahwa data pribadi tidak disalahgunakan.
+
+Pemahaman dan penerapan teori-teori ini akan membantu dalam merancang dan mengembangkan solusi yang efektif dalam penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data.
+
 ### Persoalan praktis yang  perlu diselesaikan
 1. Teknologi blockchain saat ini masih memiliki keterbatasan dalam hal kapasitas transaksi yang dapat diproses dalam jaringan
 2. Blockchain membutuhkan daya komputasi yang tinggi untuk menjalankan proses konsensus. Dalam jaringan IoT yang didukung oleh perangkat dengan daya terbatas, seperti sensor, efisiensi energi menjadi aspek penting yang perlu diperhatikan agar tidak mengorbankan kinerja dan masa pakai perangkat.
