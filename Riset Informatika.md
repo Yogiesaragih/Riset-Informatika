@@ -1,8 +1,4 @@
-# Riset-Informatika
-Mencari Topik Penelitian
-
-## Alternatif topik penelitian yang Diminati
-### Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
+## Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
 
 # JUDUL
 ## Penerapan teknologi blockchain dalam jaringan IoT untuk meningkatkan keamanan dan privasi data
