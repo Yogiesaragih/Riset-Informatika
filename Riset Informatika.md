@@ -18,6 +18,7 @@ Link : https://www.kaggle.com/code/bakuygn/supply-chain-management-for-car
 
 ### Hasil
 
+<img width="708" alt="Riset" src="https://github.com/Yogiesaragih/Riset-Informatika/assets/89885893/0f340692-e138-4eee-85fe-f02ac42233ee">
 
 ### Persoalan praktis yang  perlu diselesaikan
 1. Teknologi blockchain saat ini masih memiliki keterbatasan dalam hal kapasitas transaksi yang dapat diproses dalam jaringan
